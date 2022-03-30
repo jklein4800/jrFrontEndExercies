@@ -1,0 +1,23 @@
+table {
+  border: 2px solid black;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width:auto;
+}
+
+td {
+  border: 2px solid black;
+}
+
+.finance{
+  height: 200px;
+  
+}
+
+img {
+  height: 25px;
+  width:25px;
+  display:block;
+  padding-left:10px;
+}
